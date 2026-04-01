@@ -1,6 +1,6 @@
 # Money Transfer API (Spring Boot)
 
-Design and implement a REST API for transferring money between accounts.**in-memory datastore** based on Java collection framework.
+Design and implement a REST API for transferring money between accounts. **in-memory datastore** based on Java collection framework.
 
 ## Features
 - Get all dummy accounts
