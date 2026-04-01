@@ -1,0 +1,11 @@
+com\money\transfer\dto\TransferRequest.class
+com\money\transfer\exception\InsufficientFundsException.class
+com\money\transfer\exception\BadRequestException.class
+com\money\transfer\exception\AccountNotFoundException.class
+com\money\transfer\exception\ResourceNotFoundException.class
+com\money\transfer\service\AccountService.class
+com\money\transfer\controller\AccountController.class
+com\money\transfer\model\Account.class
+com\money\transfer\MoneyTransferApplication.class
+com\money\transfer\exception\GlobalExceptionHandler.class
+com\money\transfer\dto\TransferResponse.class
